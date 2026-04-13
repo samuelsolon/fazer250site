@@ -1,0 +1,18 @@
+10.8.210.1 - - [13/Apr/2026 14:05:06] "HEAD / HTTP/1.1" 200 -
+10.8.210.1 - - [13/Apr/2026 14:05:07] "GET / HTTP/1.1" 200 -
+10.8.210.1 - - [13/Apr/2026 14:05:07] "GET / HTTP/1.1" 200 -
+10.8.210.1 - - [13/Apr/2026 14:05:07] "GET /style.css HTTP/1.1" 200 -
+10.8.210.1 - - [13/Apr/2026 14:05:07] "GET /img/fazer_verde_3.jpg HTTP/1.1" 200 -
+10.8.210.1 - - [13/Apr/2026 14:05:07] "GET /img/fazer_verde_1.jpg HTTP/1.1" 200 -
+10.8.210.1 - - [13/Apr/2026 14:05:07] "GET /img/fazer_verde_2.webp HTTP/1.1" 200 -
+10.8.210.1 - - [13/Apr/2026 14:05:07] "GET /script.js HTTP/1.1" 200 -
+10.8.210.1 - - [13/Apr/2026 14:05:07] code 404, message File not found
+10.8.210.1 - - [13/Apr/2026 14:05:07] "GET /favicon.ico HTTP/1.1" 404 -
+10.8.210.1 - - [13/Apr/2026 14:05:28] "GET / HTTP/1.1" 200 -
+10.8.210.1 - - [13/Apr/2026 14:05:28] "GET /style.css HTTP/1.1" 200 -
+10.8.210.1 - - [13/Apr/2026 14:05:28] "GET /img/fazer_verde_1.jpg HTTP/1.1" 200 -
+10.8.210.1 - - [13/Apr/2026 14:05:28] "GET /img/fazer_verde_2.webp HTTP/1.1" 200 -
+10.8.210.1 - - [13/Apr/2026 14:05:28] "GET /img/fazer_verde_3.jpg HTTP/1.1" 200 -
+10.8.210.1 - - [13/Apr/2026 14:05:28] "GET /script.js HTTP/1.1" 200 -
+10.8.210.1 - - [13/Apr/2026 14:05:29] code 404, message File not found
+10.8.210.1 - - [13/Apr/2026 14:05:29] "GET /favicon.ico HTTP/1.1" 404 -
